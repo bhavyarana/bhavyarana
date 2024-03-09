@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently working on React.js and learning Next.js and TypeScript
 
-- 👨‍💻 All of my projects are available at [under-construction](under-construction)
+- 👨‍💻 All of my projects are available at [my-portfolio](https://bhavyaranaportfolio.netlify.app/)
 
-- 📄 Know about my experiences [will-add-soon](will-add-soon)
+- 📄 Know about my experiences in [my-resume](https://drive.google.com/file/d/1_VSG_If3RXBJjmni_vted1IuLjJAfqPC/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
