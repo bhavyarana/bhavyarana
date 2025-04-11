@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [my-portfolio](https://bhavyaranaportfolio.netlify.app/)
 
-- 📄 Know about my experiences in [my-resume](https://drive.google.com/file/d/1z5J1j-iVpN8H9UAlF-O5BmL2s9JlUU4w/)
+- 📄 Know about my experiences in [my-resume](https://drive.google.com/file/d/1yFq3mcb2nwDJo7hsmMjyRrc030lhfilc/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
