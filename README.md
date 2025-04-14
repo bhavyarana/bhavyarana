@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavya Rana</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
 
 - 🌱 I’m currently working on React.js and learning Next.js and TypeScript
